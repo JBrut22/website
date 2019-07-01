@@ -1,6 +1,6 @@
 ---
 title: Jacob Brutman
-subtitle: Resume
+subtitle: Publications & Patents
 layout: page
 show-avatar: false
 ---
