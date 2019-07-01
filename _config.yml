@@ -21,7 +21,7 @@ description: Ph.D. Chemist and Computer Enthusiast
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Publications: "publications
+  Publications: "publications"
   Resume: "/resume.pdf"
 
 # Image to show in the navigation bar - image must be a square (width = height)
