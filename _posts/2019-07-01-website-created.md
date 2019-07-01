@@ -4,7 +4,7 @@ title: Website Created
 subtitle: 
 gh-repo: JBrut22/website
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [new, website, progress]
 comments: true
 ---
 
