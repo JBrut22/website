@@ -38,4 +38,4 @@ Ambitious, energetic scientist gaining leadership skills within BASF through the
   - *Selected Awards*: Doctoral Dissertation Fellowship, Amelar-Lodge Fellowship, Monsanto-Franz Fellowship
   - Principal Investigator: Professor Marc A. Hillmyer
 - **B.S. in Chemistry**, University of Vermony, *Burlington, VT*, 2008-2012
-  -*Selected Awards*: ACS Hach scholarship, Donald C. Gregg award for organic chemistry excellence, Presidential scholarship
+  - *Selected Awards*: ACS Hach scholarship, Donald C. Gregg award for organic chemistry excellence, Presidential scholarship
