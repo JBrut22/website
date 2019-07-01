@@ -1,16 +1,9 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Jacob Brutman
+subtitle: Ph.D. Chemist and Computer Enthusiast
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+![Jacob Brutman](/img/jacobbrutman.png)
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am a polymer chemist by training, although my interests are broad and vast. My doctorate was titled "Sustainable Cross-linked Polymers with Potential for Recyclability." In recent years, I have become more passionate about digital technologies, particularly AI and machine learning. I am currently taking an online course about using python for data science.
