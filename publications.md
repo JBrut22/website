@@ -2,7 +2,6 @@
 title: Jacob Brutman
 subtitle: Publications & Patents
 layout: page
-show-avatar: false
 ---
 
 ## Publications
