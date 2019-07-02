@@ -66,7 +66,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-#  rss: true
+  rss: true
   email: "jacob@jacobbrutman.com"
 #  facebook: deanattali
   github: jbrut22
@@ -117,7 +117,7 @@ google_analytics: "UA-143170316-1"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-# disqus: ""
+disqus: "jacobbrutman"
 
 # If you want to use JustComments fill with the API Key
 #just-comments: "ABCD-EFGH-IJKL"
