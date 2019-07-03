@@ -39,3 +39,8 @@ Ambitious, energetic scientist gaining leadership skills within BASF through the
   - Principal Investigator: Professor Marc A. Hillmyer
 - **B.S. in Chemistry**, University of Vermony, *Burlington, VT*, 2008-2012
   - *Selected Awards*: ACS Hach scholarship, Donald C. Gregg award for organic chemistry excellence, Presidential scholarship
+
+# Other Experience
+- **Operations Lead**, Bitcoin Private Contribution Team, *Global*, 2017-2019
+	- Project Description: Open-source, privacy-focused cryptocurrency project focused on financial and digital privacy.
+	- *Role Description*: Organized and led the marketing, development, and partnerships teams across the globe. Managed finances and interacted with tax attorneys and securities lawyers. Author on the project’s [whitepaper](https://btcprivate.org/whitepaper.pdf).
