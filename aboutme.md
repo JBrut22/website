@@ -1,16 +1,37 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Jacob Brutman
+subtitle: Ph.D. Chemist and Computer Enthusiast
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+![Jacob Brutman](/img/jacobbrutman.png){: .center-image }
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+# Biography
+Jacob Brutman was born and raised in New Jersey, though he has lived in 7 states total. He found his love of chemistry during high school, and chose to purse a B.S. in Chemistry at the University of Vermont. After participating in an REU program at University of Minnesota in the Summer of 2011, he decided to return for his graduate studies under Professor Marc Hillmyer, studying polymer chemistry. Shortly after defending his thesis, he began his professional career at BASF in the Ph.D. Leadership Development Program.
 
-What else do you need?
+# Interests and Hobbies
+- Polymer Chemistry
+- Skiing
+- Lacrosse
+- Fantasy Football
+- Travelling
+- Computer building and optimization
+- Electronics
+- Data Science
+- Python
+- Artificial Intelligence & Machine Learning
+- Linux (Ubuntu)
+- Blockchain
 
-### my history
+# Organizations
+- American Chemical Society
+	- POLY
+	- PMSE
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+# Favorite Books
+- The Five Dysfunctions of a Team
+- Crime & Punishment
+- A Song of Ice and Fire series
+- Harry Potter series
+- The Farseer Trilogy
+- Many more...
