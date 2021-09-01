@@ -26,8 +26,8 @@ Ambitious, energetic scientist that gained leadership skills through the Ph.D. L
   - Received a $1 million award from the US Department of Energy for a project imparting recyclability on cross-linked polyurethanes (e.g. foams and elastomers) in collaboration with Northwestern University.
   - 
 - **Structural Materials Processing**, BASF, Wyandotte, MI, 2019-2020
-- Advanced Systems & Materials Research
-- *Role Description*: Plan and execute cutting-edge R&D projects in polymer and composite processing.
+  - Advanced Systems & Materials Research
+  - *Role Description*: Plan and execute cutting-edge R&D projects in polymer and composite processing.
   - Project lead on innovative scratch healing project for engineering plastics.
   - Demonstrated processability of traditionally non-recyclable polymers via twin-screw extrusion.
   - 
