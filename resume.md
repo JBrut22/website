@@ -24,13 +24,13 @@ Ambitious, energetic scientist that gained leadership skills through the Ph.D. L
   - *Role Description*: Plan and execute cutting-edge R&D projects in polyurethane systems.
   - Received a $2.5 million award from the US Department of Energy to create sustainable polyester-based polyurethanes from lignin in collaboration with U of Minnesota, MIT, and NREL.
   - Received a $1 million award from the US Department of Energy for a project imparting recyclability on cross-linked polyurethanes (e.g. foams and elastomers) in collaboration with Northwestern University.
-  - 
+ 
 - **Structural Materials Processing**, BASF, Wyandotte, MI, 2019-2020
   - Advanced Systems & Materials Research
   - *Role Description*: Plan and execute cutting-edge R&D projects in polymer and composite processing.
   - Project lead on innovative scratch healing project for engineering plastics.
   - Demonstrated processability of traditionally non-recyclable polymers via twin-screw extrusion.
-  - 
+
 - **Marketing**, BASF, *Houston, TX*, 2018-current
   - Plasticizers & Oxo-C5 Alcohols
   - 3rd Rotation, Ph.D. Leadership Development Program
@@ -43,6 +43,7 @@ Ambitious, energetic scientist that gained leadership skills through the Ph.D. L
   - Digitalization in R&D
   - 2nd Rotation, Ph.D. Leadership Development Program
   - *Role Description*: Discovering and scouting startups developing technologies of interest to BASF’s digitalization in R&D effort. Facilitating collaborations and partnerships between BASF and external companies.
+
 - **Technical Specialist**, BASF, *Southfield, MI*, 2017-2018
   - Transportation, Industrial, Furniture, and Flooring Coatings
   - 1st Rotation, Ph.D. Leadership Development Program
